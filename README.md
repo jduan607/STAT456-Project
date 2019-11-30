@@ -1,4 +1,4 @@
-# STAT456 Project
+# Multivariate Analysis of Ecological Footprint of Consumption in Europe
 Project for STAT456 Applied Multivariate Analysis (Fall 2018) at University of Wisconsin-Madison
 
 ## Background
